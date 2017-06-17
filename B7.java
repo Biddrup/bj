@@ -12,10 +12,10 @@ class B7{
                 c++;
             }
         for(a = 0; a<5; a++){
-            for(b = 0; b<6; b++){
+            for(b = 0; b<6; b++)
                 System.out.print(twoD[a][b] + " ");
                System.out.println();
-            }
+            
         }
     }  
 }
